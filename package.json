@@ -1,0 +1,24 @@
+{
+  "name": "mep_test",
+  "version": "0.0.1",
+  "description": "Hello world de test",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/jasmine-node/bin/jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickSaeg/test_mep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickSaeg/test_mep/issues"
+  },
+  "homepage": "https://github.com/NickSaeg/test_mep",
+  "dependencies": {
+    "express": "^4.13.0",
+    "jasmine-node": "^1.14.5",
+    "request": "^2.58.0"
+  }
+}
